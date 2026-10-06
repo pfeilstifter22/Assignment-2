@@ -4,8 +4,8 @@
 
 - Student A: Bryce Pfeilstifter
 - GitHub username: Pfeilstifter22
-- Student B:
-- GitHub username:
+- Student B:Joseph Salemi
+- GitHub username:jsalemi-create
 
 ## Branch Work
 
