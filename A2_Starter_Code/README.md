@@ -24,4 +24,5 @@
 - When Joe pulled in the remote changes, VSCode flagged the conflict in index.html and showed both versions of the heading with the conflict markers. Instead of just accepting one side or accepting both, we looked at the meaning of each version and replaced the whole conflicted block with the agreed final heading, "Team Recommendation: Evaluate SaaS and Hybrid Options." We made sure no conflict markers were left in the file, then staged, committed, and pushed the resolved version so both of us ended up with the same final result.
 
 3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
-   -
+   -Always pull the latest version before making any edits to ensure you have the most recent version of every file.
+   - Section off work to avoid overlapping file when possible. Having each teammate working on seperate files will help avoid conflicts in the long run. When faced with overlapping files ensure constant communication outside of GitHub (text, email, vocal) messaging can help as well.
